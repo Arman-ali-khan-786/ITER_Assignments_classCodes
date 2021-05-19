@@ -6,7 +6,7 @@ class points{
 		x=sc.nextInt();
 		y=sc.nextInt();
 	}
-	double finddistance(points p1,points p2) {
+	double find_distance(points p1,points p2) {
 		double dis = Math.sqrt(Math.pow((p2.x-p1.x),2)+Math.pow((p2.y-p1.y), 2));
 		return dis;
 }
@@ -20,7 +20,7 @@ public class sol_9 {
     points p2=new points();
     p2.setpoint();
     points p3=new points();
-    double z= p3.finddistance(p1,p2);
+    double z = p3.find_distance(p1,p2);
     System.out.println("distance = "+z);
 	}
 
