@@ -1,4 +1,4 @@
-public class A2Q20 {
+public class sol_20 {
 
 	public static void main(String[] args) {
 		
