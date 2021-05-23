@@ -1,4 +1,4 @@
-public class a2_q17 {
+public class sol_17 {
     public static void main(String[] args) {
         int a,b,c;
         a = Integer.parseInt(args[0]);
