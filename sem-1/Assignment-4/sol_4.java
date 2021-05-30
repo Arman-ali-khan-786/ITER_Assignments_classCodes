@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class sol_3 {
+public class sol_4 {
 
 	public static void main(String[] args) {
 	
