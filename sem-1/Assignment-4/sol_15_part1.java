@@ -1,4 +1,4 @@
-public class Q15 {
+public class sol_15_part1 {
 	public static void main(String[] args) {
 	
 	System.out.println("using while loop");
