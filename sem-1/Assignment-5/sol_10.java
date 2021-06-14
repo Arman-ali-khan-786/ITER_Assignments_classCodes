@@ -11,7 +11,7 @@ public class sol_10 {
     	  term=(-term)*((x*x)/(i*(i-1)));
     	  sint+=term;
       }
-     System.out.println(sint);
+     System.out.println("sin("+t+") ="+sint);
     sc.close();
 	}
 
